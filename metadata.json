@@ -1,0 +1,7 @@
+{
+  "name": "SyncPoint AI Meeting Assistant",
+  "description": "A real-time AI companion that transforms messy meeting transcripts into structured summaries, action items, and key decisions instantly using Gemini Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
